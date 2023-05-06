@@ -43,6 +43,10 @@ reducing harddisk
 student data
 ![Screenshot 2023-05-05 092043](https://user-images.githubusercontent.com/113351258/236594924-4976cd12-b717-43f7-bbc4-2791d33f7e90.png)
 ![Screenshot 2023-05-05 092234](https://user-images.githubusercontent.com/113351258/236594899-3ded2991-07e8-4391-8b97-83ff1fe68e30.png)
+ 
+ ##experiment 10
+ ![Screenshot 2023-05-06 082848](https://user-images.githubusercontent.com/113351258/236595146-c06d6519-79f6-4e48-a4bc-7983288e0526.png)
+
 
 
 
