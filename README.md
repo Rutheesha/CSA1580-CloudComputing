@@ -30,4 +30,19 @@ library book booking
 
 ##experiment 6
 ![Screenshot 2023-05-05 084205](https://user-images.githubusercontent.com/113351258/236372359-a290b9bf-f450-4ecd-a0ce-ba7ef234e001.png)
+ 
+ ##experiment 7
+ harddisk
+ ![Screenshot 2023-05-06 081613](https://user-images.githubusercontent.com/113351258/236594772-466174df-3977-4b6c-8364-ae680975273b.png)
+
+##experiment 8
+reducing harddisk
+![Screenshot 2023-05-06 081742](https://user-images.githubusercontent.com/113351258/236594813-253fe8ef-27a9-40b7-acd8-3a4e77fbd01f.png)
+
+##test 2
+student data
+![Screenshot 2023-05-05 092043](https://user-images.githubusercontent.com/113351258/236594924-4976cd12-b717-43f7-bbc4-2791d33f7e90.png)
+![Screenshot 2023-05-05 092234](https://user-images.githubusercontent.com/113351258/236594899-3ded2991-07e8-4391-8b97-83ff1fe68e30.png)
+
+
 
