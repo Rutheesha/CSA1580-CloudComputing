@@ -56,6 +56,26 @@ clone
 <img width="960" alt="Screenshot 2023-05-06 081406" src="https://user-images.githubusercontent.com/113408005/236594610-6bbfbeae-27ea-4e8f-b434-812019259ed1.png">
 <img width="960" alt="Screenshot 2023-05-06 081442" src="https://user-images.githubusercontent.com/113408005/236594624-9594c0e6-3f94-4a49-a488-26b40c41991c.png">
 <img width="224" alt="Screenshot 2023-05-06 081545" src="https://user-images.githubusercontent.com/113408005/236594650-41f2f931-c352-43f3-9778-4e26efc3b9c7.png">
+  
+ ##experiment  12
+ https://user-images.githubusercontent.com/113408005/238233381-267956fe-bcee-42a0-8678-ff524f37e941.png
+ https://user-images.githubusercontent.com/113408005/238233408-81aca367-df06-4498-87d5-cfbc304446cd.png
+ https://user-images.githubusercontent.com/113408005/238233741-2c5b0c25-178c-433b-a1ed-3b683d88a36d.png
+ 
+ ##experiment 13
+ https://user-images.githubusercontent.com/113408005/238233999-6987ae0e-f5f4-4cbb-916f-8af5bd290ea2.png
+ https://user-images.githubusercontent.com/113408005/238234176-b2baca2c-cc22-48f1-86ad-1679d2845396.png
+ 
+ ##experiment 14
+ https://user-images.githubusercontent.com/113408005/238234264-5b99745a-179d-4aa9-b82e-395bed46b450.png
+ 
+ ##experiment 18
+ https://user-images.githubusercontent.com/113408005/240473402-4bbdcfd9-0e0e-4a8c-97e6-a9c907b9e542.png
+ https://user-images.githubusercontent.com/113408005/240473513-967f83ed-a49e-460e-9264-33ff4eebe384.png
+ 
+ ##experiment 20
+ https://user-images.githubusercontent.com/113408005/240472915-2820c478-1c17-460c-97a5-05b06fbe03b7.png
+ https://user-images.githubusercontent.com/113408005/240473053-8987dc8e-3491-48c6-8ff6-f80f20ae9b1b.png
 
 
 
